@@ -1,0 +1,4 @@
+logs/
+captures/
+__pycache__/
+*.pyc
